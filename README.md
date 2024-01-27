@@ -14,7 +14,7 @@ Give Spotifire a spin and let the music find you! 🎶
 
 ### Step 1: Install Required Files
 
-Download the user_song_data.csv dataset containing user song likes and dislikes along with music attributes.
+Download the <a href="https://developer.spotify.com/dashboard/](https://github.com/Atharva-Parkar/Spotifire-A-Song-Likability-Predictor-Using-Machine-Learning/blob/main/user_song_data.csv" target="_blank">user_song_data.csv</a> dataset containing user song likes and dislikes along with music attributes.
 
 ### Step 2: Upload the File to Google Drive
 Upload the user_song_data.csv file to your Google Drive. This ensures convenient access to the dataset during the project.
